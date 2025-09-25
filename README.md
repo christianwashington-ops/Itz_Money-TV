@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/cw360048/Mod2%20Pipeline/_apis/build/status%2Fchristianwashington-ops.Itz_Money-TV?branchName=main)](https://dev.azure.com/cw360048/Mod2%20Pipeline/_build/latest?definitionId=3&branchName=main)
 # Python/Flask Tutorial for Visual Studio Code
 
 * This sample contains the completed program from the tutorial, make sure to visit the link: [Using Flask in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask). Intermediate steps are not included.
